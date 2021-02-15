@@ -1,6 +1,17 @@
+
+Nota: no s’entèn bé el punt 3 de resolució de conflictes dels exercicis.
+
 — Test prova curs git BCN Activa per Angular Front-End
 
-MASTER canvi -
+canvi -
+
+Test prova 
+
+-+- CANVIS Branch1 -+-
+
+
+curs git BCN Activa per Angular Front-End
+
 
 bye-bye
 
