@@ -1,0 +1,7 @@
+Test prova curs git BCN Activa per Angular Front-End
+
+bye-bye
+
+bla bla bla
+
+end
